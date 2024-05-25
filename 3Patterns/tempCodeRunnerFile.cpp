@@ -1,0 +1,1 @@
+char ch='A'+row+col-1;
